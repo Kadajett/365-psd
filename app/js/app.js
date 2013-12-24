@@ -6,7 +6,7 @@ var app = angular.module("365psd",
 	]
 );
 
-app.config(["$routeProvider"], function($routeProvider){
+app.config(function($routeProvider){
 
 	$routeProvider
 	.when("/",

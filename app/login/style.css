@@ -1,0 +1,87 @@
+body {
+	background-color: #451549;
+}
+@Helvetica-Neue
+{
+font-family: HelviticaNeue;
+src: url("../../fonts/HelveticaNeue.ttf"
+);
+}
+#loginContainer {
+	margin-top: 20px;
+	width: 400px !important;
+
+}
+#loginHeader {
+	background-color: #7b537e !important;
+	border-radius-top-left: 5px;
+	border-radius-top-right: 5px;
+	border-bottom: none;
+}
+#loginTitle {
+	font-weight: 800;
+	font-family: Helvetica;
+	color: white;
+	font-size: 11pt;
+}
+#loginExit {
+	margin-top: -15px;
+	color: white;
+	font-size: 10pt;
+}
+#loginBody {
+	height: 240px;
+	background-color:#f2f2f2;
+	font-family: helvetica;
+}
+#usernameInput {
+	background-color: #f0eef0;
+	width: 100%;
+	border-radius: 5px;
+	height: 50px;
+	border: none;
+	padding-left: 20px;
+	font-weight: 800;
+	color: #999999;
+	margin-top: 7px;
+}
+#userIcon {
+	margin-top: -32px;
+margin-right: 17px;
+color: #999999;
+}
+
+#passwordInput {
+	background-color: #f0eef0;
+	width: 100%;
+	border-radius: 5px;
+	height: 50px;
+	border: none;
+	padding-left: 20px;
+	font-weight: 800;
+	color: #999999;
+	margin-top: 22px;
+}
+#lockIcon {
+	margin-top: -32px;
+margin-right: 17px;
+color: #999999;
+}
+#submitRow {
+	margin-top: 20px;
+}
+#submitBtn {
+	background-color: #7b537e;
+	height: 40px;
+	padding-top: 10px;
+	font-weight: 800;
+	font-family: helvetica;
+	margin-left: 15px;
+	
+}
+#forgotPass {
+	color: #999999;
+	font-family: helvetica;
+	font-weight: 800;
+	margin-top: 10px;
+}
